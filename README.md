@@ -1,2 +1,2 @@
 # amspEOI2024
-Proyecto personal curso EOI
+Proyecto personal para curso de gestión de proyectos EOI
